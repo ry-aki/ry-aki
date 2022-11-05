@@ -1,3 +1,4 @@
+![logo](https://github.com/ry-aki/ry-aki/blob/main/bannerrr.jpg)
 <h1 align="center">Hi 👋, I'm Akhila S Kumar</h1>
 <h3 align="center">...searching for my niche in Computer Science </h3>
 
