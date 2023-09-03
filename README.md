@@ -1,8 +1,10 @@
-![logo](https://github.com/ry-aki/ry-aki/blob/main/bannerrr.jpg)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
+</div>
 <h1 align="center">Hi 👋, I'm Akhila S Kumar</h1>
 <h3 align="center">...searching for my niche in Computer Science </h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Streamlit**
 
 - 📫 How to reach me **akhilasatheesakumar@gmail.com**
 
